@@ -14,4 +14,4 @@ I love learning and researching about data science. But to be more precise...
 - 👯 Looking forward to collaborate on ML/AI related projects. Ideally, if they involve image processing or NLP!
 - 📫 Reach me: messaging through my [LinkedIn](https://www.linkedin.com/in/maximilianoalarcon/)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I enjoy going to the cinema and watching my favorite youtubers (DrossRotzank, DeiGamer, JugandoConNatalia)
+- ⚡ Hobbies: Cinema, watching my favorite youtubers (DrossRotzank, DeiGamer, JugandoConNatalia), cosplay
