@@ -10,7 +10,7 @@
 I love learning and researching about data science. But to be more precise...
 
 - 👷 I'm solution developer at Coca-Cola Andina 🥤 (IT Manager) 
-- 👨‍🎓 I studied programming in high school and a master's own in big data (it is NOT official)
+- 👨‍🎓 I studied programming in high school
 - 👯 Looking forward to collaborate on ML/AI related projects. Ideally, if they involve image processing or NLP!
 - 📫 Reach me: messaging through my [LinkedIn](https://www.linkedin.com/in/maximilianoalarcon/)
 - 😄 Pronouns: he/him
