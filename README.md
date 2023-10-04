@@ -1,4 +1,4 @@
-# Hi, I am Maximiliano (better call me maxi 😂)! 👋 
+# Hi, I am Maximiliano! 👋 
 
 <!-- LINKEDIN --> <a href="https://www.linkedin.com/in/maximilianoalarcon/"> <img height="25em" width="100em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 <!-- INSTAGRAM --> <a href="https://www.instagram.com/maximiliano_alarcon1/"> <img height="25em" width="100em" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
