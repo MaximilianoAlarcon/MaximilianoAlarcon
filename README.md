@@ -9,9 +9,9 @@
 
 I love learning and researching about data science. But to be more precise...
 
-- 👷 I'm solution developer at Coca-Cola Andina 🥤 (IT Manager) 
+- 👷 I'm Data Engineer at Coca-Cola Andina 🥤
 - 👨‍🎓 I studied programming in high school
-- 👯 Looking forward to collaborate on ML/AI related projects. Ideally, if they involve image processing or NLP!
+- 🦋 I love reinventing products to improve the user experience by giving them a sense of control and comfort.
 - 📫 Reach me: messaging through my [LinkedIn](https://www.linkedin.com/in/maximilianoalarcon/)
 - 😄 Pronouns: he/him
-- ⚡ Hobbies: Cinema, watching my favorite youtubers (DrossRotzank, DeiGamer, JugandoConNatalia), cosplay
+- ⚡ Hobbies: Cinema, watching my favorite youtubers (DrossRotzank, DeiGamer, JugandoConNatalia)
