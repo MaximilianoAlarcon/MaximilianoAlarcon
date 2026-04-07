@@ -7,7 +7,7 @@
 
 ## Summary
 
-I love learning and researching about data science. But to be more precise...
+I like to innovate and open my mind. But to be more precise...
 
 - 👷 I'm Data Engineer at Coca-Cola Andina 🥤
 - 👨‍🎓 I studied programming in high school
